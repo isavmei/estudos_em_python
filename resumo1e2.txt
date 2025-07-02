@@ -1,0 +1,11 @@
+resumo do capitulo 1/2 do livro entendendo algoritmos:
+
+- a memória do computador é um conjunto gigante de gavetas
+- quando se quer armazenar multiplos elementos, usa-se um array
+- no array, todos os elementos são armazenados um do lado do outro
+- na lista, os elementos são armazenados o endereco do proximo elemento
+- arrays permitem leituras rápidas
+- listas encadeadas permitem rápidas inserções e eliminações
+- todos os elementos de um array devem ser do mesmo tipo (todos os ints, todos os doubles e assim por diante)
+- O é a unidade de medida de rapidez. O(nlogn) costuma ser o mais rápido pois permite menos buscas até encontrar o resultado. quando constante, demora mais.
+- árvore binária divide por dois, sempre, a quantidade de busca. é um algoritimo de log com base em dois. mais rápido que a busca linear.
